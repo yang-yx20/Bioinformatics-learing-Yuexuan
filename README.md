@@ -23,6 +23,7 @@ A detailed de novo learning process of bioinformatics
   
   1. 阅读期刊杂志，获得行业内的新视角
   2. 有一本书： _《生物序列分析（Biological Sequence Analysis）》_ 
+
 ## 第一节生物信息学课程的笔记
 #### 算法（algorithm）和模型（model）的区别
   
@@ -33,4 +34,4 @@ A detailed de novo learning process of bioinformatics
 * Images：这部分似乎在本人实验室更实用
 * Sequences：本门课程的重点
 #### 本门课程的有力工具是Lulab编写的Bioinformatics Tutorial
-https://book.ncrnalab.org/teaching/
+<https://book.ncrnalab.org/teaching/>

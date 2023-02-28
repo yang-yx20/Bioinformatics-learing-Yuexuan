@@ -1,5 +1,6 @@
 # yang-yx20.github.io
 A detailed de novo learning process of bioinformatics
+
 ## 本学期生物信息学学习计划
 #### 需要优先掌握的技能
 * Linux，熟练掌握常用命令

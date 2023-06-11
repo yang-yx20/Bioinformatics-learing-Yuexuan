@@ -1,5 +1,5 @@
 # EM model代码及注释如下：
-```
+```pythonsript
 #coding=utf-8
 # 导入EM算法所需要的库
 from numpy import *
@@ -92,4 +92,12 @@ observations = array([[1,0,0,0,1,1,0,1,0,1],
 print (em(observations,[0.6,0.5]))
 end = time.perf_counter()
 print('Running time: %f seconds'%(end-start))
+```
+# 测试结果如下
+```
+"C:\python 3.6\python.exe" "C:\Users\杨、\PycharmProjects\pythonProject\EM model.py" 
+[[0.7967887593831098, 0.5195839356752803], 14]
+Running time: 0.048189 seconds
+
+Process finished with exit code 0
 ```
